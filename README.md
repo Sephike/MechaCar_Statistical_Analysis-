@@ -33,6 +33,9 @@ Looking at the information we have we can see that the p-value is above our 0.05
 
 ## Study Design: MechaCar vs Competition
 In order too address any concerns about how we can compete against our competitors, we must us some information that we can gather, such as Cost, City MPG, Highway MPG, Horse Power, Cylinders, Engine Type. We could expand the metrics to provide even better data but this should be a good starting point. 
+
 The null hypothesis is the hypothesis that can be explained by random chance.
+
 The Alternate Hypothesis is the hypothesis that is influences by non-random events.
+
 The statistical test we would do is the quarter mile time. The quarter mile time test is good for many different areas allowing us to test many variables at once making it an effective test for us to use. To do the test properly we need to run the test with these variables, Cost, City MPG, Highway MPG, Horse Power, Cylinders, Engine Type. Once we determine the quarter mile time that can help us to continue gathering data on all the variables we listed. We can even compare the datasets against each other too see how they interact with each other.
