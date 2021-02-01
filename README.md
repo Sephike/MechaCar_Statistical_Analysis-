@@ -5,18 +5,29 @@ Looking at our data, we can see that our intercept, vehicle length, and ground c
 
 ## Summary Statstics on Suspension Coils
 !["Total Summary"](Resources/total_summary.png)
+
 The total summary of the lots shows us that none of the lots exceed the 100 pounds per square inch limit. As we can see the total summary variance only has a 62.29 PSI.
+
 !["Lot Summary"](Resources/lot_summary.png)
+
 The lot summary tells us a different story from the total summary. While lot 1 and lot 2 both have respectable variance, lot 1 having a 1 PSI and lot 2 having a 7.5 PSI. Lot 3 exceeded the limit by a large margin, lot 3 having a variance PSI of 170.
 
 ## T-Tests on Suspension Coils
+
 !["T-Test That Compares all Manufacturing Lots Against Mean PSI of the Population"](Resources/t_test_1.png)
+
 Looking at the information we have we can see that the p-value is above our 0.05 significance level, this tells us that we must accept the data.
+
 !["T-Test That Compares Manufacturing Lot 1 Against Mean PSI of the Population"](Resources/t_test_2.png)
+
 Looking at the information we have we can see that the p-value is below our 0.05 significance level, this tells us that we must reject the data.
+
 !["T-Test That Compares Manufacturing Lot 2 Against Mean PSI of the Population"](Resources/t_test_3.png)
+
 Looking at the information we have we can see that the p-value is below our 0.05 significance level, this tells us that we must reject the data.
+
 !["T-Test That Compares Manufacturing Lot 3 Against Mean PSI of the Population"](Resources/t_test_4.png)
+
 Looking at the information we have we can see that the p-value is above our 0.05 significance level, this tells us that we must accept the data.
 
 ## Study Design: MechaCar vs Competition
