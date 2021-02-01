@@ -1,6 +1,7 @@
 # MechaCar_Statistical_Analysis-
 ## Linear Regression to Predict MPG
 !["Linear Regression to Predict MPG"](Resources/linear_regression.png)
+
 Looking at our data, we can see that our intercept, vehicle length, and ground clearance all play an important role in the Mecha Cars MPG. The three variables are likely to give us a non-random amount of variance, this is exactly what we are looking for in our dataset to improve the MPG. The slope of the linear model should not be considered to be zero as the p-value is 5.35x10-11, with the p-value being so low we must reject the null hypothesis. The linear model predicts mpg of the Mecha Car prototype quite well, looking at the multiple R-squared it tells us that 71.5% of the are accurate.
 
 ## Summary Statstics on Suspension Coils
